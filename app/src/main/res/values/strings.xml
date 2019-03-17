@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="tab_text_1">Chats</string>
+    <string name="tab_text_2">Status</string>
+    <string name="tab_text_3">Call</string>
+    <string name="action_Profile">My profile</string>
+    <string name="action_privacy">Privacy</string>
+    <string name="action_Group">New Group</string>
+    <string name="action_broadcast">NewBroadcast</string>
+    <string name="action_Starred">Starred Messages</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello from Ashish: %1$d</string>
+</resources>
